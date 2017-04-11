@@ -13,3 +13,4 @@ sudo chown -R $USER /usr/local/bin
 ```
 npm install
 ```
+yo
