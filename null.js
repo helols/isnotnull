@@ -1,4 +1,4 @@
-// @author: Yoon Kim
+// @author: YoonKim
 var jsdom = require('jsdom')
   , fs = require("fs")
   , jquery = fs.readFileSync("./jquery.js");
